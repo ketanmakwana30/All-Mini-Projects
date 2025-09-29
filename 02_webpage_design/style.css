@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top,rgba(0,0,0,0.5)0%,rgba(0,0,0,0.5)100%), url(./tree_image.jpg);
+    background: linear-gradient(to top,rgba(0,0,0,0.5)0%,rgba(0,0,0,0.5)100%), url(./images/tree_image.jpg);
     /* background:linear-gradient(135deg, rgb(116, 116, 224) 30% ,rgb(107, 4, 197)70%); */
     background-position: center;
     background-size: cover;
