@@ -7,7 +7,7 @@ btn.addEventListener("click", () => {
     h1.innerText = randomColor ;
     box.style.backgroundColor = randomColor;
 });
-
+x
 
 
 function getGandomColor() {
